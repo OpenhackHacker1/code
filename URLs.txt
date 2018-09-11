@@ -1,3 +1,5 @@
 https://github.com/OpenhackHacker1/code
 
 https://gist.github.com/gcardone/c49e3f66dc83be33666d
+
+https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html
